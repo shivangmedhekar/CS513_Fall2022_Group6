@@ -144,8 +144,8 @@ venv.bak/
 dmypy.json
 
 # models
-/models
-.sav
+/models/*.sav
+/models/*.h5
 
 
 # Pyre type checker
