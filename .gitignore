@@ -145,6 +145,8 @@ dmypy.json
 
 # models
 /models
+.sav
+
 
 # Pyre type checker
 .pyre/
