@@ -12,3 +12,6 @@ Models that take time to train are saved
 If you want to check by training the model, pass mode='train' in the get function for the model
 
 <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="50">
+
+<img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" width="50">
+
