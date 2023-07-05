@@ -11,4 +11,4 @@ Use requirements.txt to install all dependencies for the project
 Models that take time to train are saved
 If you want to check by training the model, pass mode='train' in the get function for the model
 
-<img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="200">
+<img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="100">
